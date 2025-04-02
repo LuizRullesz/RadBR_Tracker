@@ -1,0 +1,46 @@
+2025-04-02 02:47:40,722 - __main__ - INFO - Iniciando servidor na porta 5000
+2025-04-02 02:47:40,739 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+2025-04-02 02:47:40,739 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 02:47:40,743 - werkzeug - INFO -  * Restarting with stat
+2025-04-02 02:47:41,047 - __main__ - INFO - Iniciando servidor na porta 5000
+2025-04-02 02:47:41,056 - werkzeug - WARNING -  * Debugger is active!
+2025-04-02 02:47:41,061 - werkzeug - INFO -  * Debugger PIN: 110-893-128
+2025-04-02 02:47:43,499 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:47:43] "GET /health HTTP/1.1" 200 -
+2025-04-02 02:47:44,188 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:47:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-02 02:58:02,151 - __main__ - INFO - Iniciando servidor na porta 5000
+2025-04-02 02:58:02,168 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+2025-04-02 02:58:02,168 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 02:58:02,172 - werkzeug - INFO -  * Restarting with stat
+2025-04-02 02:58:02,452 - __main__ - INFO - Iniciando servidor na porta 5000
+2025-04-02 02:58:02,461 - werkzeug - WARNING -  * Debugger is active!
+2025-04-02 02:58:02,467 - werkzeug - INFO -  * Debugger PIN: 110-893-128
+2025-04-02 02:58:07,327 - __main__ - INFO - Recebida requisição para personagem: Zahir
+2025-04-02 02:58:08,249 - __main__ - INFO - Requisição para https://site.radbr.com/index.php?subtopic=characters&name=Zahir&servidor=8 concluída em 0.44 segundos
+2025-04-02 02:58:08,268 - __main__ - INFO - Processamento para Zahir concluído em 0.94 segundos
+2025-04-02 02:58:08,270 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:58:08] "GET /api/character/name=Zahir HTTP/1.1" 200 -
+2025-04-02 02:58:26,323 - __main__ - INFO - Recebida requisição para personagem: Mancolino
+2025-04-02 02:58:27,234 - __main__ - INFO - Requisição para https://site.radbr.com/index.php?subtopic=characters&name=Mancolino&servidor=8 concluída em 0.46 segundos
+2025-04-02 02:58:27,252 - __main__ - INFO - Processamento para Mancolino concluído em 0.93 segundos
+2025-04-02 02:58:27,253 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:58:27] "GET /api/character/name=Mancolino HTTP/1.1" 200 -
+2025-04-02 02:58:48,167 - __main__ - INFO - Recebida requisição para personagem: Zahir
+2025-04-02 02:58:49,170 - __main__ - INFO - Requisição para https://site.radbr.com/index.php?subtopic=characters&name=Zahir&servidor=8 concluída em 0.49 segundos
+2025-04-02 02:58:49,189 - __main__ - INFO - Processamento para Zahir concluído em 1.02 segundos
+2025-04-02 02:58:49,190 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:58:49] "GET /api/character/name=Zahir HTTP/1.1" 200 -
+2025-04-02 02:59:07,295 - __main__ - INFO - Recebida requisição para personagem: Mancolino
+2025-04-02 02:59:08,260 - __main__ - INFO - Requisição para https://site.radbr.com/index.php?subtopic=characters&name=Mancolino&servidor=8 concluída em 0.46 segundos
+2025-04-02 02:59:08,278 - __main__ - INFO - Processamento para Mancolino concluído em 0.98 segundos
+2025-04-02 02:59:08,280 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:59:08] "GET /api/character/name=Mancolino HTTP/1.1" 200 -
+2025-04-02 02:59:26,333 - __main__ - INFO - Recebida requisição para personagem: Mais Do Mesmo
+2025-04-02 02:59:27,339 - __main__ - INFO - Requisição para https://site.radbr.com/index.php?subtopic=characters&name=Mais Do Mesmo&servidor=8 concluída em 0.48 segundos
+2025-04-02 02:59:27,360 - __main__ - INFO - Processamento para Mais Do Mesmo concluído em 1.03 segundos
+2025-04-02 02:59:27,362 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:59:27] "GET /api/character/name=Mais%20Do%20Mesmo HTTP/1.1" 200 -
+2025-04-02 02:59:45,381 - __main__ - INFO - Recebida requisição para personagem: Cleef
+2025-04-02 02:59:46,382 - __main__ - INFO - Requisição para https://site.radbr.com/index.php?subtopic=characters&name=Cleef&servidor=8 concluída em 0.47 segundos
+2025-04-02 02:59:46,401 - __main__ - INFO - Processamento para Cleef concluído em 1.02 segundos
+2025-04-02 02:59:46,402 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 02:59:46] "GET /api/character/name=Cleef HTTP/1.1" 200 -
